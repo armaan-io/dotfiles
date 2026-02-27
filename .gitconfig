@@ -1,0 +1,9 @@
+[pull]
+	rebase = true
+[init]
+	defaultBranch = master
+[user]
+	name = armaan-io
+	email = 225050883+armaan-io@users.noreply.github.com
+[core]
+	editor = nano
